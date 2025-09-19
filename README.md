@@ -25,7 +25,6 @@ landing-page-main/
 │   ├── computer.png
 │   ├── menu-line.png
 │   ├── mountains-4743678_1920.jpg
-│   ├── project1.jpg
 │   ├── student-849825_1920.jpg
 ```
 
